@@ -10,7 +10,7 @@ A simple command-line tool to manage a SQLite database. The tool allows the addi
 
 ## Script Tags
 
---view: View the entire table.
+--view: View the entire table. \n
 --add ADD ADD: Add an entry to the table. The first value should be the name of the task, the second should be the description. Encase both with quotations.
 --delete DELETE: Remove an entry from the table. The value should be the name of the entry you would like to remove.
 --mark MARK: Mark an entry as "complete". This is done in the form of a boolean. The value should be the name of the entry you would like to mark as complete.
