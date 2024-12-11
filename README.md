@@ -19,7 +19,7 @@ A simple command-line tool to manage a SQLite database. The tool allows the addi
 
 ## Modules
 
-Python 3+
-SQLite3
-Argparse
+Python 3+  
+SQLite3  
+Argparse  
 Re
